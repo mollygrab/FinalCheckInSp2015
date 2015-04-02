@@ -1,0 +1,83 @@
+body {
+  background-color: lightcyan;
+  font-family: 'Slabo 27px', serif;
+}
+#header {
+  width: 1000px;
+  margin: 0 auto;
+}
+.column {
+  float: left;
+  width: 35%;
+}
+#title {
+  background-color: white;
+  text-align: center;
+  padding-bottom: .01em;
+  border-top-style: solid;
+  border-top-color: lightcoral;
+  border-top-width: 5px;
+  border-right-style: solid;
+  border-right-color: lightcoral;
+  border-right-width: 5px;
+  border-left-style: solid;
+  border-left-color: lightcoral;
+  border-left-width: 5px;
+}
+header {
+  font-size: 50px;
+  padding-top: 10px;
+  color: lightcoral;
+  font-family: 'Playball', cursive;
+}
+#nav {
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom-style: solid;
+  border-bottom-color: lightcoral;
+  border-bottom-width: 5px;
+  border-left-style: solid;
+  border-left-color: lightcoral;
+  border-left-width: 5px;
+  border-right-style: solid;
+  border-right-color: lightcoral;
+  border-right-width: 5px;
+}
+a {
+  padding-right: 50px;
+  margin-left: 50px;
+  color: lightslategray;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Playball', cursive;
+}
+
+h2 {
+  font-family: 'Playball', cursive;
+}
+h3{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 25px;
+  color: lightcoral;
+}
+img {
+  padding-left: 8%;
+}
+#intro {
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 10px;
+}
+#ingredients {
+  padding-left: 14%;
+  font-size: 20px;
+}
+#image {
+  padding-left: 5%;
+}
